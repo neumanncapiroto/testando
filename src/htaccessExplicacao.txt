@@ -1,0 +1,3 @@
+RewriteEngine on /* releitura de url             nesse htaccess é pra definir a pagina inicial(public/index.php)o nosso servidor vai nesa altomaticamente*/
+RewriteCond % {REQUEST_FILENAME} !-f /* aqui são as condições */
+RewriteRule ^(.*)$ /public/index.php?url=$1 [QSA,L] /* aqui vai ser a nossa regra         comeca com Acento circunflexo e (.* é para todos os tipos vai iniciar) $ /public/index.php?url=$1 */
