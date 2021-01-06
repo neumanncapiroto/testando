@@ -42,6 +42,6 @@
 <div class="Footer">
     2020 - TODOS OS DIREITOS RESERVADO WEBDESIGN EM FOCO <BR>
     <?php echo $this->addFooter();?>
-
+<br>
 </div>
 </html>
