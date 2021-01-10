@@ -8,6 +8,6 @@
  
  [![primeiros passos com o git e github](http://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](http://www.youtube.com/watch?v=FF1f4bKYhoo "vídeo de introdução ao git ")
  
- ###matricule-se grátis
+ ### matricule-se grátis
  
  [boa sorte nos código e nada vida](http://embedyoutube.org/)
